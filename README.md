@@ -1,8 +1,12 @@
-# <center>**Curso de JavaScript e HTML: pratique lógica com desenhos, animações e um jogo**</center>
+<h1 align="center">
+  <strong>
+    Curso de JavaScript e HTML: pratique lógica com desenhos, animações e um jogo
+  </strong>
+</h1>
 
-<center>
+<p align="center">
   <img alt="Deploy Gif" src="" width="100%">
-</center>
+</p>
 
 ## 🚀 Tecnologias
 
@@ -21,4 +25,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 **Os aplicativos estarão reunidos no deploy main e o código de cada um ficará em suas respectivas branches**
 
 ---
-<center>Feito com ♥ by <a href="https://piluvitu.dev" >PiluVitu</a> </center>
+<p align="center"> Feito com ♥ by <a href="https://piluvitu.dev" >PiluVitu</a></p> 
